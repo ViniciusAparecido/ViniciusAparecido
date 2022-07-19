@@ -16,22 +16,22 @@
     <img align="center" alt="Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </a>
 
-<!--   <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank">
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  </a> -->
+  </a>
 
-<!--   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank">
     <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </a> -->
+  </a> 
 
-<!--   <a href="https://javascript.info" target="_blank">
+   <a href="https://javascript.info" target="_blank">
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </a> -->
+  </a> 
 
-<!--   <a href="https://git-scm.com" target="_blank">
+  <a href="https://git-scm.com" target="_blank">
     <img align="center" alt="GIT" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
- -->
+ 
 <!--   <a href="https://tailwindcss.com" target="_blank">
     <img align="center" alt="Tailwind" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   </a> -->
