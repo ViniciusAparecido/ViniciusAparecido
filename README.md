@@ -1,4 +1,4 @@
-## <img src="https://c.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="35px"> Hello!
+## <img src="https://c.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="35px"> Hello!, my name is Vinicius!
 
 ### Welcome to my GitHub.
 <div align="center">
@@ -52,10 +52,10 @@
     <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   </a> -->
 
-<!--   <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
+   <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
     <img align="center" alt="C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </a>
- -->
+  
 <!--   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="center" alt="C#" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   </a> -->
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-<!--   <a href="https://stackoverflow.com/users/17967628/joaodias" target="_blank">
+<!--   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Stack--Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=black">
   </a> -->
 <!-- 
