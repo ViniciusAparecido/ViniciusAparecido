@@ -1,4 +1,4 @@
-## <img src="https://c.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="35px">  Hello!, my name is Vinicius!
+## <img src="https://c.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="35px">  Hello!, My name is Vinicius!
 
 ### Welcome to my GitHub.
 <div align="center">
