@@ -73,7 +73,7 @@
 <!--   https://shields.io  | box -->
 <!--   https://simpleicons.org  | colors -->
 
-  <a href="https://www.linkedin.com/in/vinicius-aparecido-soares-dos-santos-831482234/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BssOgP0jFTXy7tyZMHOal8g%3D%3D"  target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-soares-dos-santos-831482234"  target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
