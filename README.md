@@ -12,9 +12,9 @@
 <div style="display: inline_block" align="center"><br>
 <!--   https://devicon.dev  best icons   -->
 
-  <a href="https://www.python.org" target="_blank">
+ <!-- <a href="https://www.python.org" target="_blank">
     <img align="center" alt="Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
+  </a> -->
 
   <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank">
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -56,9 +56,9 @@
     <img align="center" alt="C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </a>
   
-<!--   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img align="center" alt="C#" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  </a> -->
+  </a> 
 
 <!--   <a href="https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank">
     <img align="center" alt="C++" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
