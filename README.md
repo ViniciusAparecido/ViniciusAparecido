@@ -123,4 +123,5 @@
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ViniciusAparecido/ViniciusAparecido/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ViniciusAparecido/ViniciusAparecido/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!--END_SECTION:data-section-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/ViniciusAparecido/ViniciusAparecido/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ViniciusAparecido/ViniciusAparecido/output/github-contribution-grid-snake.svg#gh-light-mode-only)
