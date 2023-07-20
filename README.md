@@ -122,3 +122,4 @@
   </a> -->
 
 </div>
+![Snake animation](https://github.com/VinicuisAparecido/ViniciusAparecido/blob/output/github-contribution-grid-snake.svg)
